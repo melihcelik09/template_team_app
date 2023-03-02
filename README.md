@@ -206,6 +206,10 @@ Instructions on how to use them in your own application are linked below.
 
 
 ## Contributors
+<a href="https://github.com/gurkanfikretgunak/template_team_app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gurkanfikretgunak/template_team_app" />
+</a>
+
 - [Gürkan Fikret Günak](https://github.com/gurkanfikretgunak)
 - [Ayşenur Perker](https://github.com/aysenurperker1)
 - [Elif Karagöz](https://github.com/eliffkaragoz)
